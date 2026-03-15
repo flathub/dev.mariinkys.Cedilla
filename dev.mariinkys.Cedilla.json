@@ -43,7 +43,8 @@
         {
           "type": "git",
           "url": "https://github.com/mariinkys/cedilla.git",
-          "commit": "1cb0d753ab9d0cefe252de3e9f48100acb41cf42"
+          "tag": "0.1.2",
+          "commit": "4f335201d3b74d0615420956da56490fe79568c1"
         },
         "cargo-sources.json"
       ]
