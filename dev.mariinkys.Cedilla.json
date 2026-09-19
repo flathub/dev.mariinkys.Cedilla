@@ -1,7 +1,7 @@
 {
   "app-id": "dev.mariinkys.Cedilla",
   "runtime": "org.freedesktop.Platform",
-  "runtime-version": "25.08",
+  "runtime-version": "26.08",
   "sdk": "org.freedesktop.Sdk",
   "sdk-extensions": ["org.freedesktop.Sdk.Extension.rust-stable"],
   "base": "com.system76.Cosmic.BaseApp",
@@ -47,8 +47,8 @@
         {
           "type": "git",
           "url": "https://github.com/mariinkys/cedilla.git",
-          "tag": "0.1.11",
-          "commit": "962157a5c3a0d11ad3e2825d1a7f78300cca6cf4"
+          "tag": "0.1.12",
+          "commit": "a0f70e3f64b9d1dafe4201a78bab2986b066294d"
         },
         "cargo-sources.json"
       ]
